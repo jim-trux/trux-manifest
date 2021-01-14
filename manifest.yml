@@ -1,0 +1,73 @@
+repos:
+	- url: git@github.com:truxinc/sales-api.git
+		dest: sales-api
+	
+	- url: git@github.com:truxinc/web-app.git
+		dest: web-app
+	
+	- url: git@github.com:truxinc/database.git
+		dest: database
+	
+	- url: git@github.com:truxinc/sales-service.git
+		dest: sales-service
+	
+	- url: git@github.com:truxinc/dispatch-api.git
+		dest: dispatch-api
+	
+	- url: git@github.com:truxinc/notification-service.git
+		dest: notification-service
+	
+	- url: git@github.com:truxinc/config.git
+		dest: config
+	
+	- url: git@github.com:truxinc/apex-integration-service.git
+		dest: apex-integration-service
+	
+	- url: git@github.com:truxinc/rate-service.git
+		dest: rate-service
+	
+	- url: git@github.com:truxinc/delivery-detail.git
+		dest: delivery-detail
+	
+	- url: git@github.com:truxinc/kpi-service.git
+		dest: kpi-service
+	
+	- url: git@github.com:truxinc/job-service.git
+		dest: job-service
+	
+	- url: git@github.com:truxinc/equipment-service.git
+		dest: equipment-service
+	
+	- url: git@github.com:truxinc/billing-factors-service.git
+		dest: billing-factors-service
+	
+	- url: git@github.com:truxinc/location-service.git
+		dest: location-service
+	
+	- url: git@github.com:truxinc/core-service.git
+		dest: core-service
+	
+	- url: git@github.com:truxinc/billing-service.git
+		dest: billing-service
+	
+	- url: git@github.com:truxinc/http-common.git
+		dest: http-common
+	
+	- url: git@github.com:truxinc/user-service.git
+		dest: user-service
+	
+	- url: git@github.com:truxinc/apex-standard-integration-service.git
+		dest: apex-standard-integration-service
+	
+	- url: git@github.com:truxinc/document-service.git
+		dest: document-service
+	
+	- url: git@github.com:truxinc/trux-api.git
+		dest: trux-api
+	
+	- url: git@github.com:truxinc/image-processing.git
+		dest: image-processing
+	
+	- url: git@github.com:truxinc/dispatch-service.git
+		dest: dispatch-service
+	
